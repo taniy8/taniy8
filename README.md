@@ -1,12 +1,9 @@
 <h1 align="center">Hi 👋, I'm Taniya Saxena</h1>
 <h3 align="center">A passionate Java Developer from India</h3>
 
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=taniy8&theme=flat&no-frame=true&margin-w=15"
-    alt="GitHub Trophies"
-  />
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=taniy8&label=Profile%20views&color=0e75b6&style=flat" alt="taniy8" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taniy8" alt="taniy8" /></a> </p>
 
 
 - 🌱 Learning more about **backend development, REST APIs, and system design**
