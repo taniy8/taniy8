@@ -4,7 +4,6 @@
 
 
 - 🌱 Learning more about **backend development, REST APIs, and system design**
-- 📝 I regularly write technical articles on **X (Twitter)**: https://x.com/TaniyaSaxena_17
 - 💬 Ask me about **Java, DSA, Spring Boot, and problem-solving**
 - 📫 Reach me on LinkedIn: **https://www.linkedin.com/in/taniya-saxena-511524330/**
 - ⚡ Fun fact: **I enjoy turning complex problems into simple solutions**
