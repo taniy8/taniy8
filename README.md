@@ -87,6 +87,4 @@ Backend development chose me, or maybe I chose it. Either way, I'm a 4th semeste
 
 *"Just trying to become better than I was yesterday."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=taniy8&color=6DB33F&style=for-the-badge)
-
 </div>
