@@ -1,45 +1,92 @@
-<h1 align="center">Hi 👋, I'm Taniya Saxena</h1>
-<h3 align="center">A passionate Java Developer from India</h3>
+<div align="center">
 
+# Taniya Saxena
+### Java Backend Developer · Open Source Enthusiast · Problem Solver
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taniya-saxena-511524330/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/tani_dev)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/TaniyaSaxena_17)
 
-- 🌱 Learning more about **backend development, REST APIs, and system design**
-- 💬 Ask me about **Java, DSA, Spring Boot, and problem-solving**
-- 📫 Reach me on LinkedIn: **https://www.linkedin.com/in/taniya-saxena-511524330/**
-- ⚡ Fun fact: **I enjoy turning complex problems into simple solutions**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.leetcode.com/tani_dev" target="blank">
-    <img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-      alt="leetcode"
-      height="30"
-      width="40" />
-  </a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.arduino.cc/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-  </a>
-  <a href="https://spring.io/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/>
-  </a>
-</p>
+## 👩‍💻 About Me
+
+I'm a **Java Backend Developer** from India, currently in my 4th semester and passionate about building clean, scalable backend systems. I enjoy turning complex problems into simple, elegant solutions — one API at a time.
+
+- 🔭 Currently building **[Smart Education Analytics](https://github.com/taniy8/smart-education)** — a backend system for school & college performance tracking
+- 🌱 Deepening my skills in **Spring Security, System Design, and Microservices**
+- 🎯 Goal for 2025: **Land my first open source contribution via GSSoC**
+- 💬 Ask me about **Java, DSA, Spring Boot, and problem-solving** — 204 LeetCode problems solved & counting!
+- ⚡ Fun fact: I enjoy turning complex problems into simple solutions
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+**Backend**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+**Database**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 🚀 Featured Project
+
+### 🎓 Smart Education Analytics
+> A backend system for tracking and analyzing student performance across schools and colleges.
+
+**Tech:** Spring Boot · MySQL · REST API · Spring Security  
+**Features:** Student enrollment, performance analytics, role-based access (Admin/Teacher/Student), JWT authentication
+
+[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/taniy8/smart-education)
+
+---
+
+## 🧠 LeetCode Progress
+
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/tani_dev?theme=dark&font=Karma&ext=contest)](https://leetcode.com/tani_dev)
+
+> 🔥 **196-day max streak** · 📊 **204 problems solved** · 🏅 **3 Badges**
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=taniy8&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Clean code is not written by following rules. It is written by a programmer who cares."*
+
+![Profile Views](https://komarev.com/ghpvc/?username=taniy8&color=6DB33F&style=for-the-badge)
+
+</div>
