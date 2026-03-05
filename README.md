@@ -4,7 +4,7 @@
 ### Java Backend Developer · Open Source Enthusiast · Problem Solver
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taniyasaxena)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/tani_dev)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/TaniyaSaxena)
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/TaniyaSaxena_17)
 
 </div>
@@ -65,7 +65,7 @@ Backend development chose me, or maybe I chose it. Either way, I'm a 4th semeste
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/tani_dev?theme=dark&font=Karma&ext=contest)](https://leetcode.com/tani_dev)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/tani_dev?theme=dark&font=Karma&ext=contest)](https://leetcode.com/TaniyaSaxena)
 
 > 🔥 **196-day max streak** · 📊 **204 problems solved** · 🏅 **3 Badges**
 
