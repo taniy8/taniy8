@@ -65,7 +65,7 @@ Backend development chose me, or maybe I chose it. Either way, I'm a 4th semeste
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/tani_dev?theme=dark&font=Karma&ext=contest)](https://leetcode.com/TaniyaSaxena)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/TaniyaSaxena?theme=dark&font=Karma&ext=contest)](https://leetcode.com/TaniyaSaxena)
 
 > 🔥 **196-day max streak** · 📊 **204 problems solved** · 🏅 **3 Badges**
 
