@@ -17,7 +17,7 @@ Backend development chose me, or maybe I chose it. Either way, I'm a 4th semeste
 
 - 🔭 Currently building **[Smart Education Analytics](https://github.com/taniy8/smart-education)** — a backend system for school & college performance tracking
 - 🌱 Deepening my skills in **Spring Security, System Design, and Microservices**
-- 🎯 Goal for 2025: **From student to software engineer — the journey is on**
+- 🎯 Goal: **From student to software engineer — the journey is on**
 - 💬 Ask me about **Java, DSA, Spring Boot, and problem-solving** — 204 LeetCode problems solved & counting!
 - ⚡ Fun fact: I enjoy turning complex problems into simple solutions
 
