@@ -85,7 +85,7 @@ I'm a **Java Backend Developer** from India, currently in my 4th semester and pa
 
 <div align="center">
 
-*"Clean code is not written by following rules. It is written by a programmer who cares."*
+*"Just trying to become better than I was yesterday."*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=taniy8&color=6DB33F&style=for-the-badge)
 
