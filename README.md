@@ -13,11 +13,11 @@
 
 ## 👩‍💻 About Me
 
-I'm a **Java Backend Developer** from India, currently in my 4th semester and passionate about building clean, scalable backend systems. I enjoy turning complex problems into simple, elegant solutions — one API at a time.
+Backend development chose me, or maybe I chose it. Either way, I'm a 4th semester student from India fully committed to building clean, scalable systems with Java and Spring Boot. I solve problems on LeetCode daily, prep for GATE on the side, and try to understand the "why" behind everything I build. Still a work in progress, and proud of it.
 
 - 🔭 Currently building **[Smart Education Analytics](https://github.com/taniy8/smart-education)** — a backend system for school & college performance tracking
 - 🌱 Deepening my skills in **Spring Security, System Design, and Microservices**
-- 🎯 Goal for 2025: **Land my first open source contribution via GSSoC**
+- 🎯 Goal for 2025: **From student to software engineer — the journey is on**
 - 💬 Ask me about **Java, DSA, Spring Boot, and problem-solving** — 204 LeetCode problems solved & counting!
 - ⚡ Fun fact: I enjoy turning complex problems into simple solutions
 
