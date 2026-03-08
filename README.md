@@ -12,7 +12,7 @@
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
 > *Backend development chose me, or maybe I chose it.*
 
@@ -26,7 +26,7 @@ I'm a **4th semester CS student from India** fully committed to building clean, 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -52,11 +52,11 @@ I'm a **4th semester CS student from India** fully committed to building clean, 
 
 ---
 
-## 🚀 Featured Project
+## Featured Project
 
 <div align="center">
 
-### 🎓 Smart Education Analytics
+### Smart Education Analytics
 
 > A backend system for tracking and analyzing student performance across schools and colleges.
 
