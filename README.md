@@ -75,7 +75,7 @@ I'm a **4th semester CS student from India** fully committed to building clean, 
 
 ---
 
-## 🧠 LeetCode Progress
+## LeetCode Progress
 
 <div align="center">
 
