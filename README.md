@@ -12,7 +12,7 @@
 
 I'm pursuing Computer Science and learning backend development.
 
-- 🌱 These days I'm exploring backend concepts and building small projects  
+-🌱 Currently building Spring Boot projects focused on security, JWT auth, and API design
 - 💻 Working on a **[Smart Education Analytics](https://github.com/taniy8/smart-education)** project  
 - 📚 Learning Spring Boot, system design, and related areas  
 - 💭 Just trying to become better than I was yesterday  
