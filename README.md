@@ -13,7 +13,7 @@
 
 Backend developer in the making — focused on building real, working systems with Java and Spring Boot.
 
-- 🔐 Built **[jwt-refresh-token-springboot](https://github.com/taniy8/jwt-refresh-token-springboot)** — refresh token rotation, token blacklisting, and secure logout
+- 🔐 Built **[jwt-refresh-token-springboot](https://github.com/taniy8/jwt-refresh-token-springboot)** — stateless JWT auth with refresh token rotation, theft detection, and secure logout
 - 🎓 Co-building **[Smart Education Analytics](https://github.com/taniy8/smart-education)** — AI-powered academic platform with Spring AI + GPT, JWT auth, and REST APIs
 - 🌱 Currently exploring: system design, Spring Security internals, and distributed systems concepts
 - 📬 Reach me at: taniyasaxena804@gmail.com
