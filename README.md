@@ -1,32 +1,39 @@
 [![LinkedIn](https://img.shields.io/badge/Taniya%20Saxena-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taniyasaxena)
 [![LeetCode](https://img.shields.io/badge/TaniyaSaxena-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://www.leetcode.com/TaniyaSaxena)
 [![Twitter](https://img.shields.io/badge/@TaniyaSaxena__17-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/TaniyaSaxena_17)
+[![Gmail](https://img.shields.io/badge/taniyasaxena804-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:taniyasaxena804@gmail.com)
 
 ---
 
 <table>
 <tr>
-<td valign="top" width="55%">
+<td valign="top" width="60%">
 
 ## Hi there 👋, I'm Taniya
 
-I'm pursuing Computer Science and learning backend development.
+Backend developer in the making — focused on building real, working systems with Java and Spring Boot.
 
-- 🌱 Currently building Spring Boot projects focused on security, JWT auth, and API design
-- 💻 Working on a **[Smart Education Analytics](https://github.com/taniy8/smart-education)** project  
-- 📚 Learning Spring Boot, system design, and related areas  
-- 💭 Just trying to become better than I was yesterday  
-- 📫 You can reach me at: taniyasaxena804@gmail.com
+- 🔐 Built **[jwt-refresh-token-springboot](https://github.com/taniy8/jwt-refresh-token-springboot)** — refresh token rotation, token blacklisting, and secure logout
+- 🎓 Co-building **[Smart Education Analytics](https://github.com/taniy8/smart-education)** — AI-powered academic platform with Spring AI + GPT, JWT auth, and REST APIs
+- 🌱 Currently exploring: system design, Spring Security internals, and distributed systems concepts
+- 📬 Reach me at: taniyasaxena804@gmail.com
 
 </td>
-<td valign="top" width="10%"></td>
-<td valign="top" width="35%">
+<td valign="middle" width="40%" align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/243078871-08fa9f5b-dcb7-4f5e-8721-203468dda5f3.gif" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/243078871-08fa9f5b-dcb7-4f5e-8721-203468dda5f3.gif" width="90%" />
 
 </td>
 </tr>
 </table>
+
+---
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=taniy8&theme=github-dark&hide_border=true" height="150"/>
+
+</div>
 
 ---
 
@@ -38,10 +45,10 @@ I'm pursuing Computer Science and learning backend development.
       <img src="https://skillicons.dev/icons?i=java" width="35" height="35" alt="Java" />
     </td>
     <td align="center" width="60">
-      <img src="https://skillicons.dev/icons?i=c" width="35" height="35" alt="C" />
+      <img src="https://skillicons.dev/icons?i=python" width="35" height="35" alt="Python" />
     </td>
     <td align="center" width="60">
-      <img src="https://skillicons.dev/icons?i=python" width="35" height="35" alt="Python" />
+      <img src="https://skillicons.dev/icons?i=c" width="35" height="35" alt="C" />
     </td>
   </tr>
 </table>
@@ -83,6 +90,3 @@ I'm pursuing Computer Science and learning backend development.
     </td>
   </tr>
 </table>
-
----
-
