@@ -1,7 +1,6 @@
 [![LinkedIn](https://img.shields.io/badge/Taniya%20Saxena-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taniyasaxena)
 [![LeetCode](https://img.shields.io/badge/TaniyaSaxena-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://www.leetcode.com/TaniyaSaxena)
 [![Twitter](https://img.shields.io/badge/@TaniyaSaxena__17-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/TaniyaSaxena_17)
-[![Gmail](https://img.shields.io/badge/taniyasaxena804-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:taniyasaxena804@gmail.com)
 
 ---
 
